@@ -29,9 +29,9 @@ const CatergoriesHeader = () => {
 						tank
 					</li>
 				</Link>
-				<Link to="/Catergory/superhero">
+				<Link to="/Catergory/racing">
 					<li className="bg-slate-500 rounded-3xl w-32 h-14 pt-4 font-semibold text-white">
-						superhero
+						racing
 					</li>
 				</Link>
 			</ul>

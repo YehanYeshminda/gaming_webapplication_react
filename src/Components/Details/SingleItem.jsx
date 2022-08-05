@@ -25,7 +25,7 @@ const SingleItem = () => {
 
 	useEffect(() => {
 		getData();
-	}, [params.searchName]);
+	}, [params.id]);
 
 	if (!data) return 'loading....';
 
